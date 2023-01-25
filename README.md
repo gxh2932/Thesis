@@ -25,7 +25,7 @@ The provided modules serve the following purpose:
 To train a model (e.g. VGG) using a particular normalization layer (e.g. BatchNorm), run the following command
 
 ```execution
-python main.py -arch=ResNet-56 --norm_type=BatchNorm
+python main.py -arch=VGG --norm_type=BatchNorm
 ```
 
 ## Summary of basic options

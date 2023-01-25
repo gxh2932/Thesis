@@ -17,10 +17,10 @@ The provided modules serve the following purpose:
 
 * **run_hessian.py**: Compute properties of the Hessian matrix.
 
-* **transformer_mode.py**: Contains definitions for different Vision Transformer model architectures.
+* **transformer_model.py**: Contains definitions for different Vision Transformer model architectures.
 
 ## Example execution 
-To train a model (e.g., ResNet-56) using a particular normalization layer (e.g., BatchNorm), run the following command
+To train a model (e.g. VGG) using a particular normalization layer (e.g. BatchNorm), run the following command
 
 ```execution
 python main.py -arch=ResNet-56 --norm_type=BatchNorm

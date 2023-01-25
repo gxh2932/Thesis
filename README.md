@@ -1,6 +1,8 @@
 # Thesis
 Code for Master's Thesis.
-[Click here to download thesis.](https://github.com/gxh2932/Thesis/files/10496450/Thesis.5.pdf) Results from the experiments performed can be found in the **results** folder.
+[Click here to download thesis.](https://github.com/gxh2932/Thesis/files/10496450/Thesis.5.pdf) 
+
+Results from the experiments performed can be found in the **results** folder.
 
 ## Organization
 The provided modules serve the following purpose:

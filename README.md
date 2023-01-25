@@ -15,6 +15,8 @@ The provided modules serve the following purpose:
 
 * **run_class_similarity.py**: Compute cosine similarity between class features.
 
+* **utils.py**: Contains helper functions for **run_class_similarity.py**.
+
 * **run_hessian.py**: Compute properties of the Hessian matrix.
 
 * **transformer_model.py**: Contains definitions for different Vision Transformer model architectures.
